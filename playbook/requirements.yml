@@ -1,0 +1,13 @@
+# Install a role from GitHub
+- name: elastic_role
+  src: https://github.com/dotsenkois/elastic_role
+
+- name: kibana_role
+  src: https://github.com/dotsenkois/kibana_role
+
+- name: filebeat_role
+  src: https://github.com/dotsenkois/filebeat_role
+
+- name: logstash_role
+  src: https://github.com/dotsenkois/logstash_role
+  
