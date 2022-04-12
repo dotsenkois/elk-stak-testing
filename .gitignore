@@ -5,3 +5,5 @@ terraform/.terraform/providers/registry.terraform.io/hashicorp/local/2.2.2/linux
 terraform/terraform.tfstate.backup
 terraform/.terraform/providers/registry.terraform.io/hashicorp/null/3.1.1/linux_amd64/terraform-provider-null_v3.1.1_x5
 terraform/.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.71.0/linux_amd64/CHANGELOG.md
+terraform/.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.71.0/linux_amd64/LICENSE
+terraform/.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.71.0/linux_amd64/terraform-provider-yandex_v0.71.0
